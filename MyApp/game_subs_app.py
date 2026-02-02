@@ -17,7 +17,7 @@ from PySide6.QtWidgets import (
 )
 from PySide6.QtCore import Qt, QDate
 from PySide6.QtGui import QFont, QIcon
-
+# ghujikoghj 789 6f7g88
 # Импортируем модуль базы данных
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from database import db
