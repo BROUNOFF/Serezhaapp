@@ -10,7 +10,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
+# dsfdsfdfsdsfdsdf
 
 def main():
     """Основная функция инициализации"""
@@ -43,4 +43,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
