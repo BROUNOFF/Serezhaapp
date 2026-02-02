@@ -14,7 +14,7 @@ from config import db_config
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-
+# ыоатоштмошутпшуупт
 class Database:
     """Класс для работы с базой данных PostgreSQL"""
 
